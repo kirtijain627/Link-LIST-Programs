@@ -1,3 +1,3 @@
-# Link-LIST-Programmes
-here are some link list programmes using C language 
+# Link-LIST-Programs
+here are some link list programs using C language 
  
